@@ -1,0 +1,110 @@
+.contant{
+	width: 941px;
+	margin:auto;
+}
+.topcontent{
+    background-image: url(123.jpg);
+    height: 300px;
+    
+   
+}
+html{
+    background-image: url(6.jpg);
+}
+.top3{
+    background-image: url( 88.jpg);
+    width: 250px;
+    float: left; 
+    border-radius: 20px;
+   padding: 6px;
+    box-sizing: border-box;
+    
+}
+.contant{
+    background-image:url(090.png);
+    background-size: 100%;
+    height: 4000px;
+    
+}
+tr,td,table{
+    width: 100%;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+.top9 a{
+    color: #993300;
+     }
+        
+.top90{
+    float: right;
+    text-align: center;
+    width: 691px;
+    
+}
+
+.centr{
+    width: 100%;
+    
+}
+.kreslo{
+    text-align: center;
+    width: 33%;
+
+    
+}
+.divkreslo{
+    width: 250px;
+    
+}
+.divdivan{
+    width: 350px;
+}
+.obshee{
+    display: inline-block;
+    margin-bottom: 50px;
+    width: 340px;
+
+
+    
+}
+.obshee a{
+    color: black;
+    font-weight: bold;
+
+}
+.onas{
+    text-align: center;
+    clear: both;
+    font-family: Roboto Slab;
+    font-weight: bold;
+    
+    
+}
+.dostavka{
+     text-align: center;
+    clear: both;
+    font-family: Roboto Slab;
+    font-weight: bold;
+    
+}
+.omebeli{
+     text-align: center;
+    clear: both;
+    font-family: Roboto Slab;
+    font-weight: bold;
+}
+.kontakti{
+    text-align: center;
+    clear: both;
+    font-family: Roboto Slab;
+    font-weight: bold;
+   
+   
+}
+
+
+
